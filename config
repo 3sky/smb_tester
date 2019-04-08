@@ -1,0 +1,9 @@
+{
+    "host": "12.12.12.10",
+    "port": 445,
+    "user": "test",
+    "domain": "prod.eu",
+    "workstation": "",
+    "password": "dupa"
+}
+
